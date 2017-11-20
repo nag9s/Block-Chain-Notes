@@ -9,4 +9,5 @@
 * [Block Chain Nodes](block-chain-nodes.md)
 * [simulation](simulation.md)
 * [fullnodes Vs large Clients](fullnodes-vs-large-clients.md)
+* [How Conflicts are Resolved](how-conflicts-are-resolved.md)
 
