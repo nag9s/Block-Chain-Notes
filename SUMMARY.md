@@ -20,4 +20,5 @@
 * [Why blockchain is relevant for business](why-blockchain-is-relevant-for-business.md)
 * SupplyChain Example
 * [Componentns of BlockChain](componentns-of-blockchain.md)
+* [Limititations](limititations.md)
 
