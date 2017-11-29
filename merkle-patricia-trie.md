@@ -6,7 +6,9 @@ what about  _Patricia _? What does a  _trie _ mean? And how is it used in Ethere
 
 An ordered tree data structure that is used to store a dynamic set or associative array where the keys are usually strings. A node's position in the tree defines the key with which it is associated.
 
-
-
 ![](/assets/trie1.png)
+
+
+
+![](/assets/pat.png)
 
