@@ -8,7 +8,15 @@ An ordered tree data structure that is used to store a dynamic set or associativ
 
 ![](/assets/trie1.png)
 
-
-
 ![](/assets/pat.png)
+
+
+
+**Merkle Patricia Trie**
+
+As described [here](https://easythereentropy.wordpress.com/2014/06/04/understanding-the-ethereum-trie/), the term Merkle implies that
+
+> the root node becomes a cryptographic fingerprint of the entire data structure
+
+
 
