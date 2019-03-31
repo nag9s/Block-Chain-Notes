@@ -24,4 +24,5 @@
 * [Merkle-Patricia-trie](merkle-patricia-trie.md)
 * [Consensus](consensus.md)
 * [Private vs. Public and Permissioned vs. Permission-less](private-vs-public-and-permissioned-vs-permission-less.md)
+* [References](references.md)
 
